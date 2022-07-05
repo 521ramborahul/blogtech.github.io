@@ -70,5 +70,5 @@ function liveViews(response) {
         greet = 'Good Evening';
 
     document.getElementById('lblGreetings').innerHTML =
-        '<b>' + greet + '</b> welcome to ApnaWebsite!';
+        '<b>' + greet + '</b> and welcome to ApnaWebsite!';
 
